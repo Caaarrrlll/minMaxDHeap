@@ -31,7 +31,6 @@ See an example min-max heap in Fig. 1. Smallest element, 6, is the root of the t
 87, is the child of the root. Even levels constitute a min-heap, while the odd levels constitute a
 max-heap.
 
-[[https://github.com/Caaarrrlll/minMaxDHeap/blob/master/Figure1.png|alt=Figure1]
 ![alt text](https://github.com/Caaarrrlll/minMaxDHeap/blob/master/Figure1.png)
 
  Algorithms
@@ -109,10 +108,8 @@ A d-heap is a heap structure that allows for up to d children per node. One of t
 implementing such a structure is that the more children each node can have, the more nodes can be
 contained on fewer levels. A binary heap is a 2-heap, d = 2. A ternary heap is a 3-heap, d = 3. An
 example of a min d-heap, d = 3, is shown in Fig. 2.
-                                                      Figure 2
-                                                          1
-                          10              |              18                 |             22
-            15      |     30    |    51       25     |   19     |     42
+                                                     
+![alt text](https://github.com/Caaarrrlll/minMaxDHeap/blob/master/Figure2.png)
             
 The d-heap consists of an array of n items, each of which has a priority associated with it. These
 items may be viewed as the nodes in a complete d-ary tree, listed in breadth first traversal order: the
