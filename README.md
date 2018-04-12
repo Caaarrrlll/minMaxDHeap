@@ -32,7 +32,7 @@ See an example min-max heap in Fig. 1. Smallest element, 6, is the root of the t
 max-heap.
 
 [[https://github.com/Caaarrrlll/minMaxDHeap/blob/master/Figure1.png|alt=Figure 1]
-[alt text](https://raw.githubusercontent.com/Caaarrrlll/minMaxDHeap/master/Figure1.png)
+[alt text](https://raw.githubusercontent.com/Caaarrrlll/minMaxDHeap/blob/master/Figure1.png)
 
  Algorithms
  Insertion
