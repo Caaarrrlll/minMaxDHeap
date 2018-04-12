@@ -30,13 +30,7 @@ odd) level, has the largest priority key in the min-max heap.
 See an example min-max heap in Fig. 1. Smallest element, 6, is the root of the tree. Largest element,
 87, is the child of the root. Even levels constitute a min-heap, while the odd levels constitute a
 max-heap.
-                                              Figure One
-                                                   6
-                        81                                                    87
-          14                        17                            12                      28
-    71          25            80          20                52          78          31            42
- 31    59    16    24      79   63     18    19          32    13    15    48
- 
+![alt text](https://raw.githubusercontent.com/Caaarrrlll/minMaxDHeap/Master/Figure 1.png)
  Algorithms
  Insertion
 1. Append the required key to the array representing the min-max heap. This may break the
