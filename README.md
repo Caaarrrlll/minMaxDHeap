@@ -1,8 +1,6 @@
 # minMaxDHeap
 some java coding
 
-NB View RAW file to see figures!!!
-
 Problem Description
 A priority queue is an abstract data type similar to a regular queue, but where each element has a
 “priority” associated with it, in addition to the stored data. In a priority queue, an element with high
