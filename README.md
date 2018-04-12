@@ -31,7 +31,7 @@ See an example min-max heap in Fig. 1. Smallest element, 6, is the root of the t
 87, is the child of the root. Even levels constitute a min-heap, while the odd levels constitute a
 max-heap.
 
-[[https://github.com/Caaarrrlll/minMaxDHeap/blob/master/Figure1.png|alt=Figure 1]
+[[https://github.com/Caaarrrlll/minMaxDHeap/blob/master/Figure1.png|alt=Figure1]
 [alt text](https://raw.githubusercontent.com/Caaarrrlll/minMaxDHeap/blob/master/Figure1.png)
 
  Algorithms
